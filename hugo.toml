@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Talha Chowdhury'
-theme = 'typo-main'
+theme = 'typo'
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
