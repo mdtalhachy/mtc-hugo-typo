@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Talha Chowdhury'
 theme = 'typo'
 
-# Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
 
 [taxonomies]
 tag = 'tags'
@@ -63,11 +61,27 @@ url = "/posts"
 name = "about"
 url = "/about"
 
+[[params.menu]]
+name = "library"
+url = "/library"
+
 
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
 style = 'algol'
+
+# Deploy settings
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
 
 # Giscus comments
 [params.giscus]
