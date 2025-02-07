@@ -1,7 +1,7 @@
 ---
 title: "AI, AGI, and the Future: Insights from the Last Two Weeks"
 date: "2025-02-06"
-summary: "I'm going to share some incredible insights I've come across in the past two weeks. The world is moving at an accelerated speed—something you might not fully notice from Bangladesh. So let me give you a snapshot of what's happening."
+summary: "I'm going to share some incredible insights I've come across in the past two weeks."
 description: "AI, AGI, and the Future."
 toc: false
 readTime: true
