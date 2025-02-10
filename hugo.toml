@@ -19,8 +19,9 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-Hi, I'm Talha. Writer | Builder | Athlete.
-I write about Product, AI, and Tech.
+I'm Talha, a Product Manager with a strong background in AI, Startups, and Content. I’m interested in interdisciplinary exploration of AI and product. My domain expertise are in Personal Knowledge Management (PKM) and Productivity systems. I read rare pdfs from the internet on Psychology, Intelligence, Productivity, History, Philosophy, among other things. Also, you’ll probably see me in local pool tournaments ;). 
+
+Feel free to read [about me](/about) or look at my [posts](/posts).
 """
 
 # Collection to display on home
