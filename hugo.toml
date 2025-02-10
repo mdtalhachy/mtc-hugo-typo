@@ -39,7 +39,7 @@ breadcrumbs = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+url = "https://www.linkedin.com/in/mdtalhachy/"
 
 # [[params.social]]
 # name = "medium"
@@ -47,7 +47,7 @@ url = "https://www.linkedin.com/in/user/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/mdtalhachy"
 
 # Main menu pages
 [[params.menu]]
