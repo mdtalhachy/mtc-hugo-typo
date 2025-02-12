@@ -93,3 +93,8 @@ category = "General"
 categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
+
+[params.umami]
+enable = true
+websiteId = "be13c9ae-44b3-4341-8f6b-6151e4679140"
+jsLocation = "https://cloud.umami.is/script.js"
