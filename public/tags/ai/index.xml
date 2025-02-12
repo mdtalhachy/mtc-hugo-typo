@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI, AGI, and the Future: Insights from the Last Two Weeks</title>
-      <link>http://localhost:1313/posts/disclaimer/</link>
+      <link>http://localhost:1313/posts/ai-race/disclaimer/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/disclaimer/</guid>
+      <guid>http://localhost:1313/posts/ai-race/disclaimer/</guid>
       <description>I&amp;rsquo;m going to share some incredible insights I&amp;rsquo;ve come across in the past two weeks.</description>
     </item>
   </channel>

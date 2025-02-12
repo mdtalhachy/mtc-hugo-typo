@@ -14,7 +14,7 @@ fediverse: "@username@instance.url"
 ---
 
 
-
+![img](./human-ai.PNG "Human-Human and Human-AI Conversation")
   
 
 I'm going to share some incredible insights I've come across in the past two weeks. The world is moving at an accelerated speed—something you might not fully notice from Bangladesh. So let me give you a snapshot of what's happening.  
