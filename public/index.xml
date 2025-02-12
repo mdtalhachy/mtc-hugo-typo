@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/posts/ai-race/disclaimer/</guid>
       <description>I&amp;rsquo;m going to share some incredible insights I&amp;rsquo;ve come across in the past two weeks.</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re currently building in AI and find my experience relevant, ping me in any of my socials.&lt;/p&gt;&#xA;&lt;p&gt;For the past year, I&amp;rsquo;ve been training AI models, bechnmarking and testing their strengths and weaknesses. This has been a keen hobby. Probably I&amp;rsquo;ll turn of them into a product these days.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Library</title>
+      <link>http://localhost:1313/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.julian.com/blog/life-planning&#34;&gt;What to do with your life&lt;/a&gt;&lt;br&gt;&#xA;Take 15 minutes to think about what you otherwise probably won&amp;rsquo;t.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
